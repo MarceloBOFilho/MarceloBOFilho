@@ -8,7 +8,6 @@ Sou Marcelo Bernardo — um desenvolvedor apaixonado por construir, aprender e c
 
 - 🌱 Atualmente estou aprendendo: Python
 - 👯 Procuro colaborar em: Projetos open-source, ideias, comunidades
-- 🤔 Procuro ajuda com: Front-end
 - 📫 Como entrar em contato comigo: Email e Discord, links logo abaixo!
 - ⚡ Curiosidade: Entusiasta de hardware e upgrades customizados, foco em desenvolvimento em python, web, automações e UX, um grande entusiasta dos jogos da FromSoftware.
 
